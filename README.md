@@ -4,7 +4,6 @@ A real-time elder safety monitoring system that uses multiple TP-Link Tapo IP ca
 
 <div align="left">
 <img src="images/tapo.jpg" width="400">
-</div>
 
 <div align="right">
 <img src="images/mediapipe.png" width="400">

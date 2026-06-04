@@ -274,8 +274,6 @@ Robotics Engineer | ROS2 | Computer Vision | Autonomous Systems
 GitHub:
 https://github.com/PukyBots
 
-LinkedIn:
-(Add your LinkedIn profile link)
 
 ---
 

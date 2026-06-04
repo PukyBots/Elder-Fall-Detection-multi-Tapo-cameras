@@ -2,11 +2,11 @@
 
 A real-time elder safety monitoring system that uses multiple TP-Link Tapo IP cameras, MediaPipe Pose Estimation, fall detection algorithms, local alarm triggering, and MQTT-based remote alert transmission.
 
-<div align="center">
+<div align="left">
 <img src="images/tapo.jpg" width="400">
 </div>
 
-<div align="center">
+<div align="right">
 <img src="images/mediapipe.png" width="400">
 </div>
 
